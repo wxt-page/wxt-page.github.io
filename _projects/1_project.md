@@ -1,20 +1,32 @@
 ---
 layout: page
-title: Source Modeling of very Low-Frequency Earthquakes Based on Source Dynamics Simulation and Rupture Phase Diagrams
-description: National Natural Science Foundation of China (Youth Program)
-img: 
-importance: 1
+title: China Postdoctoral Science Foundation (General Program)
+description: General Program, China Postdoctoral Science Foundation
+importance: 2
 category: Research Projects
-related_publications: false
+giscus_comments: false
 ---
 
 ## Project Overview
 
-- **Program Category**: National Natural Science Foundation of China (Youth Program)
-- **Project Title**: Seismic Source Dynamics Modeling and Rupture Phase Diagram Research
-- **Duration**: January 2024 – December 2025
-- **Funding Amount**: 20,000 RMB
+- **Program Category**: General Program, China Postdoctoral Science Foundation
+- **Project Title**: 
+- **Grant Number**: 
+- **Duration**: 2023/06/30 – 2025/03/31
+- **Funding Amount**: 80,000 RMB
 - **Principal Investigator**: Xueting Wei
 
 ---
 
+## Brief Description
+
+This project is supported by the General Program of the China Postdoctoral Science Foundation.
+
+---
+
+## Research Team
+
+- **Principal Investigator**: Xueting Wei (School of Earth and Space Sciences, Wuhan University)
+- **Collaborators**: 
+
+---
