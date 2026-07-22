@@ -13,7 +13,7 @@ profile:
     <p>No. 299 Bayi Road, Wuchang District</p>
     <p>Wuhan, Hubei Province, China</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
