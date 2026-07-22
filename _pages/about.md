@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Distinguished Associate Researcher, School of Earth and Space Sciences, Wuhan University.
+subtitle: Distinguished Associate Researcher, School of Earth and Space Science and Technology, Wuhan University.
 
 profile:
   align: right
