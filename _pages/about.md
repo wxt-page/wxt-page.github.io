@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Distinguished Associate Researcher at the School of Earth and Space Sciences, Wuhan University. My research interests encompass seismic source dynamics, dynamic source modeling, rupture phase diagrams, slow earthquakes, and foreshock mechanisms.
+I am a Distinguished Associate Researcher at the School of Earth and Space Science and Technology, Wuhan University. My research interests encompass seismic source dynamics, dynamic source modeling, rupture phase diagrams, slow earthquakes, and foreshock mechanisms.
 
 I received my B.S. degree in Geophysics from Wuhan University in 2017, and subsequently obtained my Ph.D. from the University of Science and Technology of China in 2022.
 
